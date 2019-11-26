@@ -1,6 +1,6 @@
-###How to use GitHub and trello 
+### How to use GitHub and trello 
 
-####Branch: Master, develop, personal
+#### Branch: Master, develop, personal
 
 - **Master**: Release version, release to client or market.
 - **develop**: Internal development version, Head of Team/PM take responsible for it. The test team(when we have) should do testing/checking on this branch and create a pull request to master after confirm.
@@ -8,16 +8,16 @@
 
 >Note: Please create least one pull requrest a week, two to three pull requrest each week will be better.
 
-####What is requiret in README.md
+#### What is requiret in README.md
 1. Describe what is this project/product, what is it for. Let the reader know what is this code for.
 2. What SDK/library was use for this project, how to set it up.
 3. Main version release note
 
-####How to create a pull requrest
+#### How to create a pull requrest
 1. Install [hub](https://hub.github.com/) tool  and use the [command](https://hub.github.com/hub-pull-request.1.html?tdsourcetag=s_pctim_aiomsg) of it.
 2. Create a pull requiret on web side of Github
 
-####[Trello](https://trello.com/) for project development tracking 
+#### [Trello](https://trello.com/) for project development tracking 
 
  - **Issue**:  For Tester/PM/Client to post up question/issue 
  - **In Progress**: Developer move the issue tag to here and start working on it.
