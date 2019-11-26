@@ -1,4 +1,4 @@
-### How to use GitHub and trello 
+### How to use GitHub and Trello 
 
 #### Branch: Master, develop, personal
 
@@ -13,12 +13,20 @@
 2. What SDK/library was use for this project, how to set it up.
 3. Main version release note
 
+#### How to use gitignore file 
+ Please ignore the build and export folder in your project.
+ 1. Example for [ESP32](https://github.com/espressif/esp-idf-template/blob/master/.gitignore)
+ 2. [SEGGER Embedded Studio](https://github.com/NordicPlayground/nrf5-sdk-for-eddystone/blob/master/.gitignore)
+ 3. Others in [gitignore.io](https://www.gitignore.io/)
+
+
 #### How to create a pull requrest
 1. Install [hub](https://hub.github.com/) tool  and use the [command](https://hub.github.com/hub-pull-request.1.html?tdsourcetag=s_pctim_aiomsg) of it.
-2. Create a pull requiret on web side of Github
+2. Create a pull requiret on web side of Github.
+> Charles and Alain has been use Github in this way in pass few week, seem it is good for us create a good habit.
 
 #### [Trello](https://trello.com/) for project development tracking 
-
+Trello is a good tool to track all the issue/question of project, and help you flow up them easily.
  - **Issue**:  For Tester/PM/Client to post up question/issue 
  - **In Progress**: Developer move the issue tag to here and start working on it.
  - **Under Review**: Developer move the tag after he fix the issue, it is waiting tester/PM to review and verify it.
